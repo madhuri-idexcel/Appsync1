@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "execute": "node remove_directives.js"
+    }
+}
